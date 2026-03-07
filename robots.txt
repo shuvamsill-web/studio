@@ -1,0 +1,6 @@
+# Robots.txt for https://yourdomain.com
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
